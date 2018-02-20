@@ -1,0 +1,15 @@
+15:10:50.283 [JavaFX-Launcher] INFO  main.MainStage - Meine Info-Meldung
+15:10:50.286 [JavaFX-Launcher] WARN  main.MainStage - Meine Warn-Meldung
+15:10:50.286 [JavaFX-Launcher] ERROR main.MainStage - Meine Error-Meldung
+15:10:50.286 [JavaFX-Launcher] FATAL main.MainStage - Meine Fatal-Meldung
+15:10:50.288 [JavaFX-Launcher] INFO  main.MainStage - configuration file creation success
+15:11:46.777 [JavaFX-Launcher] INFO  main.MainStage - Meine Info-Meldung
+15:11:46.779 [JavaFX-Launcher] WARN  main.MainStage - Meine Warn-Meldung
+15:11:46.779 [JavaFX-Launcher] ERROR main.MainStage - Meine Error-Meldung
+15:11:46.779 [JavaFX-Launcher] FATAL main.MainStage - Meine Fatal-Meldung
+15:11:46.781 [JavaFX-Launcher] INFO  main.MainStage - check configuration File success
+15:20:33.185 [JavaFX-Launcher] INFO  main.MainStage - Meine Info-Meldung
+15:20:33.187 [JavaFX-Launcher] WARN  main.MainStage - Meine Warn-Meldung
+15:20:33.187 [JavaFX-Launcher] ERROR main.MainStage - Meine Error-Meldung
+15:20:33.187 [JavaFX-Launcher] FATAL main.MainStage - Meine Fatal-Meldung
+15:20:33.188 [JavaFX-Launcher] INFO  main.MainStage - check configuration File success
